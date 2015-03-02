@@ -1,4 +1,4 @@
-package ExcepcionesTexto;
+package edu.upc.eetac.dsa.csanchez.ExcepcionesTexto;
 
 import java.io.BufferedReader;
 import java.io.File;
